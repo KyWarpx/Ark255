@@ -5,3 +5,4 @@ DX11Overlay turns your discord overlay into a simple lagging aura menu.
 2) It is disquised as a AHK process so no ban from major anti cheat. 
 3) use alt account to be safe none the less. 
 4) Compile the code yourself or use the auto setup. 
+5) May create false positive with AV since it injects into Discord overlay. 
